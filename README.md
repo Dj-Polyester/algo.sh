@@ -24,6 +24,6 @@ of the database you created.`dbtable` can be anything.
 
 ## Help needed
 
-We need your help. algo.sh requests entries from [cht.sh](cht.sh)
+We need your help. algo.sh requests entries from [cht.sh](https://cht.sh/)
 for now. However, the entries may contain inaccurate results. We aim on giving more flexibility
 to users. Please consider contributing to the project with your own code.
