@@ -1,6 +1,6 @@
 # algo.sh core
 
-Core functionality of the project.
+Core functionality of the project [algo.sh](https://github.com/Dj-Polyester/algo.sh-vscode).
 
 ## Steps for installation
 
